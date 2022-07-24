@@ -1,0 +1,16 @@
+{
+	"blogs": [
+		{
+			"title": "My first blog",
+			"body": "My first blog\n lorem de vb ",
+			"author": "cedric",
+			"id": 1
+		},
+		{
+			"title": "My second blog",
+			"body": "My first blog\n lorem de vb ",
+			"author": "cedric",
+			"id": 2
+		}
+	]
+}
