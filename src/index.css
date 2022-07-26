@@ -117,10 +117,15 @@
 }
 
 .create button {
-	background: #f1356d;
-	color: #ddd;
-	border: none;
-	padding: 8px;
+	background: #eca0b738;
+	border: 2px solid #f1356d;
+	color: #f1356d;
+	padding: 8px 10px;
 	border-radius: 8px;
 	cursor: pointer;
+}
+
+.create button:hover {
+	background: #f1356d;
+	color: #fafafa;
 }
