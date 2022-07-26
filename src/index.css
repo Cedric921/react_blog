@@ -85,3 +85,42 @@
 	background: #f1356d;
 	color: #fafafa;
 }
+
+/*  blog add */
+.create {
+	max-width: 400px;
+	margin: 0 auto;
+	text-align: center;
+}
+
+.create label {
+	text-align: left;
+	display: block;
+}
+
+.create h2 {
+	font-size: 20px;
+	color: #f1356d;
+	margin-bottom: 30px;
+}
+
+.create input,
+.create select,
+.create textarea {
+	width: 100%;
+	padding: 6px 10px;
+	margin: 10px 0;
+	border-radius: 8px;
+	border: 1px solid #ddd;
+	box-sizing: border-box;
+	display: block;
+}
+
+.create button {
+	background: #f1356d;
+	color: #ddd;
+	border: none;
+	padding: 8px;
+	border-radius: 8px;
+	cursor: pointer;
+}
