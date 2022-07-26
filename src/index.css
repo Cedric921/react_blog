@@ -121,6 +121,7 @@
 	border: 2px solid #f1356d;
 	color: #f1356d;
 	padding: 8px 10px;
+	margin: 0 auto;
 	border-radius: 8px;
 	cursor: pointer;
 }
