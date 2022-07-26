@@ -2,13 +2,13 @@
 	"blogs": [
 		{
 			"title": "My first blog",
-			"body": "My first blog\n lorem de vb ",
+			"body": " quisquam molestiae soluta placeat sit libero expedita obcaecati explicabo eligendi delectus et laboriosam est dolor magnam rem optiorepellendus numquam. Dolor reiciendis tempora ipsum sapiente\nrerum tenrem.",
 			"author": "cedric",
 			"id": 1
 		},
 		{
 			"title": "My second blog",
-			"body": "My first blog\n lorem de vb ",
+			"body": " suscipit ipsa omnis dolores? Distinctio culpa. Fuga velit optio quo doloremque consequatur mollitia sint eligendi perferendis amet ipsa quaerat sequi omnis architecto veniam hic et beata ipsam voluptate!",
 			"author": "cedric",
 			"id": 2
 		}
